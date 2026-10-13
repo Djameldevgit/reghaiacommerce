@@ -144,8 +144,7 @@ app.use('/api', require('./routes/imageRouter'));
 app.use('/api', require('./routes/languageRouter'));
 app.use('/api', require('./routes/privacysettingsRouter'));
 app.use("/api", require("./routes/settingsRouter"));
-app.use('/api', require('./routes/carouselHomeRouter'));
-
+ 
 // --- Formularios y Blogs ---
 app.use('/api/forms', require('./routes/formRouter'));
 app.use('/api/blog/comments', require('./routes/blogCommentRoutes'));

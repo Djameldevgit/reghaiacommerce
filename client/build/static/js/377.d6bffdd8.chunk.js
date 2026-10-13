@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkclient=globalThis.webpackChunkclient||[]).push([[377],{48377(s,l,c){c.r(l),c.d(l,{default:()=>h});c(65043);var e=c(70579);const h=()=>(0,e.jsx)("div",{children:(0,e.jsx)("h1",{children:"Posts tab"})})}}]);
+//# sourceMappingURL=377.d6bffdd8.chunk.js.map
